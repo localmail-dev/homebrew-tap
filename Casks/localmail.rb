@@ -1,6 +1,6 @@
 cask "localmail" do
-  version "0.2.1"
-  sha256 "a2c709ff5b868cd51af043fc8cc748a93520e5a0fd94ca0efa5ba4decf6d52a5"
+  version "0.2.2"
+  sha256 "4d5b80b452d9b97b9748207c373d94930d9061b8c5ef0eb146d9eb366a21f990"
 
   url "https://download.localmail.dev/releases/#{version}/LocalMail.dmg"
   name "LocalMail"
